@@ -24,5 +24,6 @@ jobs:
 
     - name: Build
       run: |
+      npx shadcn@latest add "https://v0.dev/chat/b/b_l6MBR9jLUu8?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..WF_1D4P7X3Ft5BK2.Iu947kFsACPR5ly-4Q8d2aB93ZvhEw3c3O4yDt9_J9GwtmckNmK1di9HJo8.Ymj_yXn8Za_ikdApResF6g"
         npm install
         gulp
